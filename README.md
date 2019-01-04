@@ -1,1 +1,0 @@
-# course-hybrid-app-development
